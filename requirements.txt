@@ -1,7 +1,7 @@
 streamlit
 numpy
-fury
+fury==0.9.0
 dipy
-vtk
+vtk==9.2.6
 pyvista
 stpyvista
