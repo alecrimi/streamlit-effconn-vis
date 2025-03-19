@@ -5,3 +5,7 @@ dipy==1.8.0
 vtk==9.2.6
 pyvista==0.43.0
 stpyvista==0.0.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+Pygments==2.19.1
+rich==13.9.4
